@@ -1,0 +1,10 @@
+* gooptest
+
+A simulator-based microcontroller testing framework, focused on AVR and Arduino.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/markasoftware/gooptest.git   |
+| commit  | 46c1689  |
+| systems | gooptest |
+|---------+-------------------------------------------|
+
